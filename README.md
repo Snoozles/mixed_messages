@@ -10,9 +10,9 @@
     1. [Potential Extended Scope Tasks](#potenital-extended-scope-tasks)
 
 ## General Information
-This is is project to practice my newly acquired JavaScript skills. For a project in the Full-Stack Engineer career path course on codecademy.
+This is project to practice my newly acquired JavaScript skills. For a project in the Full-Stack Engineer career path course on codecademy.
 
-The aim is to build a JavaSript programm that presents randomly generated messages to the user.
+The script generates a piece of "very wise" advice everytime the program runs.
 
 ## Technologies
 * JavaScript
@@ -20,15 +20,17 @@ The aim is to build a JavaSript programm that presents randomly generated messag
 * NODE.js
 
 ## Setup
-In the first instance the program will run on the command line. With the extended scope of providing a web user interface.
+The program runs on the command line. With the extended scope of providing a web user interface at a later stage.
 
 ## Status
 ### Current Project Status
-Just setup / Planning phase
+core functionality establish to run program in console
+
+extended scope tasks as per list below to be worked on at a later stage
 ### To-Do-List
-* pick topic
-* create text snippets
-* create scripts
+* ~~pick topic~~
+* ~~create text snippets~~
+* ~~create scripts~~
 ### Potential Extended Scope Tasks
 * create user interface HTML
 * create user interface CSS

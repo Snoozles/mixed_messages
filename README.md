@@ -7,6 +7,8 @@
 ## General Information
 This is is project to practice my newly acquired JavaScript skills.
 
+The aim is to build a JavaSript programm that presents randomly generated messages to the user.
+
 ## Technologies
 * JavaScript
 * Git/Github
